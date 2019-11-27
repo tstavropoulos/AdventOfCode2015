@@ -3,57 +3,57 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day01", "Day01\Day01.csproj", "{D57D930F-DEC1-482D-9B77-16916ED7A093}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day01 - Not Quite Lisp", "Day01\Day01 - Not Quite Lisp.csproj", "{D57D930F-DEC1-482D-9B77-16916ED7A093}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day02", "Day02\Day02.csproj", "{4F900406-4EB7-4D2C-AE31-95E2FDDC107C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day02 - I Was Told There Would Be No Math", "Day02\Day02 - I Was Told There Would Be No Math.csproj", "{4F900406-4EB7-4D2C-AE31-95E2FDDC107C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03", "Day03\Day03.csproj", "{D8B439A6-0D20-4ABD-AFF0-33103B5014FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03 - Perfectly Spherical Houses in a Vacuum", "Day03\Day03 - Perfectly Spherical Houses in a Vacuum.csproj", "{D8B439A6-0D20-4ABD-AFF0-33103B5014FE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04", "Day04\Day04.csproj", "{85FF6BA5-4173-4BDD-9570-FD440B33E521}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04 - The Ideal Stocking Stuffer", "Day04\Day04 - The Ideal Stocking Stuffer.csproj", "{85FF6BA5-4173-4BDD-9570-FD440B33E521}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day05", "Day05\Day05.csproj", "{FABBA172-12DB-49C5-A829-52975658E468}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day05 - Doesnt He Have Intern-Elves For This", "Day05\Day05 - Doesnt He Have Intern-Elves For This.csproj", "{FABBA172-12DB-49C5-A829-52975658E468}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day06", "Day06\Day06.csproj", "{FD372F29-AF62-4E28-86C8-40AA535AC816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day06 - Probably a Fire Hazard", "Day06\Day06 - Probably a Fire Hazard.csproj", "{FD372F29-AF62-4E28-86C8-40AA535AC816}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day07", "Day07\Day07.csproj", "{4CBA8A70-F3D0-4365-9B40-9CAEFD1A6A96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day07 - Some Assembly Required", "Day07\Day07 - Some Assembly Required.csproj", "{4CBA8A70-F3D0-4365-9B40-9CAEFD1A6A96}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day08", "Day08\Day08.csproj", "{6FB4B5A8-EBC7-49BF-BE7B-F24EFCEB5C03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day08 - Matchsticks", "Day08\Day08 - Matchsticks.csproj", "{6FB4B5A8-EBC7-49BF-BE7B-F24EFCEB5C03}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day09", "Day09\Day09.csproj", "{BF06D155-A190-463E-A567-B3B288BF15AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day09 - All in a Single Night", "Day09\Day09 - All in a Single Night.csproj", "{BF06D155-A190-463E-A567-B3B288BF15AB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day10", "Day10\Day10.csproj", "{74D69D4B-644D-45EC-BE2D-6D0244A9FACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day10 - Elves Look, Elves Say", "Day10\Day10 - Elves Look, Elves Say.csproj", "{74D69D4B-644D-45EC-BE2D-6D0244A9FACD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day11", "Day11\Day11.csproj", "{CFFD03E3-6C6E-4F96-81A0-535A78AB20C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day11 - Corporate Policy", "Day11\Day11 - Corporate Policy.csproj", "{CFFD03E3-6C6E-4F96-81A0-535A78AB20C7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day12", "Day12\Day12.csproj", "{69C38823-ADC2-40FB-9C0A-DA29C52BACD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day12 - JSAbacusFramework.io", "Day12\Day12 - JSAbacusFramework.io.csproj", "{69C38823-ADC2-40FB-9C0A-DA29C52BACD9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day13", "Day13\Day13.csproj", "{0E7419D8-77BA-475B-A171-E15DF91F64E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day13 - Knights of the Dinner Table", "Day13\Day13 - Knights of the Dinner Table.csproj", "{0E7419D8-77BA-475B-A171-E15DF91F64E7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day14", "Day14\Day14.csproj", "{7A300F8A-9419-47E6-846F-8363C26A9B17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day14 - Reindeer Olympics", "Day14\Day14 - Reindeer Olympics.csproj", "{7A300F8A-9419-47E6-846F-8363C26A9B17}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day15", "Day15\Day15.csproj", "{739E78ED-BD6D-4F0D-995A-89B6EAFD8A1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day15 - Science for Hungry People", "Day15\Day15 - Science for Hungry People.csproj", "{739E78ED-BD6D-4F0D-995A-89B6EAFD8A1A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day16", "Day16\Day16.csproj", "{B6180DBC-B886-4014-BC41-A52B91056995}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day16 - Aunt Sue", "Day16\Day16 - Aunt Sue.csproj", "{B6180DBC-B886-4014-BC41-A52B91056995}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day17", "Day17\Day17.csproj", "{4D95E0E8-F7E4-41AE-8BC4-0AF6BA72C319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day17 - No Such Thing as Too Much", "Day17\Day17 - No Such Thing as Too Much.csproj", "{4D95E0E8-F7E4-41AE-8BC4-0AF6BA72C319}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day18", "Day18\Day18.csproj", "{0DA66AD0-4E66-4F20-907E-B2363E9348AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day18 - Like a GIF For Your Yard", "Day18\Day18 - Like a GIF For Your Yard.csproj", "{0DA66AD0-4E66-4F20-907E-B2363E9348AD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day19", "Day19\Day19.csproj", "{E10366F0-6A6E-437E-94FE-63377D37CEA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day19 - Medicine for Rudolph", "Day19\Day19 - Medicine for Rudolph.csproj", "{E10366F0-6A6E-437E-94FE-63377D37CEA3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day20", "Day20\Day20.csproj", "{4B8A1BFC-AD2F-491B-83C6-38A8D38F07EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day20 - Infinite Elves and Infinite Houses", "Day20\Day20 - Infinite Elves and Infinite Houses.csproj", "{4B8A1BFC-AD2F-491B-83C6-38A8D38F07EE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day21", "Day21\Day21.csproj", "{F6F46C13-20C7-4DD1-A968-964A75245D52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day21 - RPG Simulator 20XX", "Day21\Day21 - RPG Simulator 20XX.csproj", "{F6F46C13-20C7-4DD1-A968-964A75245D52}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day22", "Day22\Day22.csproj", "{D455B0F4-DF11-48A4-8BA4-FD196DF60254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day22 - Wizard Simulator 20XX", "Day22\Day22 - Wizard Simulator 20XX.csproj", "{D455B0F4-DF11-48A4-8BA4-FD196DF60254}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day23", "Day23\Day23.csproj", "{682D9271-44D7-4526-B568-1E648BCD7113}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day23 - Opening the Turing Lock", "Day23\Day23 - Opening the Turing Lock.csproj", "{682D9271-44D7-4526-B568-1E648BCD7113}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day24", "Day24\Day24.csproj", "{0D370A91-F3D2-4506-9A27-FBF44DF2B295}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day24 - It Hangs in the Balance", "Day24\Day24 - It Hangs in the Balance.csproj", "{0D370A91-F3D2-4506-9A27-FBF44DF2B295}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day25", "Day25\Day25.csproj", "{B1EF390A-22E6-4E2F-8780-884DFE29151F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day25 - Let It Snow", "Day25\Day25 - Let It Snow.csproj", "{B1EF390A-22E6-4E2F-8780-884DFE29151F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoCTools", "AoCTools\AoCTools.csproj", "{FB4C9BCC-7C27-4776-861A-FB8E56827972}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoCTools", "AoCTools\AoCTools.csproj", "{FB4C9BCC-7C27-4776-861A-FB8E56827972}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
